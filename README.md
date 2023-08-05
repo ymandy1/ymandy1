@@ -1,7 +1,7 @@
 ### Olá, eu sou a Amanda Rodrigues 👋
 
 
-- 💻 Atualmente estudando Python
+- 💻 Atualmente estudando Java
 - 👩‍💻 Estudante de Sistemas de Informação
 - 📩 Email para contato: yamanda.rodrigues@gmail.com
 
